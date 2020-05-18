@@ -79,7 +79,7 @@ Nous sommes déjà une équipe de 4 personnes et cherchons potentiellement une 5
 * Lucile Gentaz *quand tu commences elle a déjà fini :trollface: ...les chips* 
 * Agnès Arthaud *fait des tisanes #Josiane*
 * Milena Lazzaretti *fait de son mieux*
-* Jhonnatan Rangel
+* Jhonnatan Rangel *qu'est-ce qui est jaune et qui attend ?
 ## 4. La version minimaliste mais fonctionnelle qu'il faut avoir livré la première semaine
 
 Le MVP se résume a créer les profils (User/ Pets), afficher l'ensemble des profils de Pets et pouvoir faire matcher 2 Pets entre eux.
