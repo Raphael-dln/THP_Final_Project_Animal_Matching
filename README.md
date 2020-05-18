@@ -73,12 +73,13 @@ Envoie d'emails aux utilisateurs: :bell: notifications, :heart: matchs, :email: 
 - [ ] Stripes - Option de compte premium (*ex: nombre de likes illimités, ton animal en front page ou front list*)
 - [x] Pexels - Choper des images libres de droits (#catfish)
 
-### 3.4. Mes besoins techniques
+### 3.4. La team crocket *plus rapide que la lumière*
 Nous sommes déjà une équipe de 4 personnes et cherchons potentiellement une 5e personne pour nous aider à faire de ce projet: **la prochaine licorne :rainbow:**
 * Raphaël Delannay *a tenu les 7 premières semaines de THP*
 * Lucile Gentaz *quand tu commences elle a déjà fini :trollface: ...les chips* 
 * Agnès Arthaud *fait des tisanes #Josiane*
 * Milena Lazzaretti *fait de son mieux*
+* Jhonnatan Rangel
 ## 4. La version minimaliste mais fonctionnelle qu'il faut avoir livré la première semaine
 
 Le MVP se résume a créer les profils (User/ Pets), afficher l'ensemble des profils de Pets et pouvoir faire matcher 2 Pets entre eux.
@@ -101,7 +102,16 @@ D'autres possibilités d'amélioration
 
 
 ## 6. Notre mentor
-On le cherche toujours, alors si tu veux participer à ce projet n'hésite pas à nous contacter ! (@Félix on pense à toi :heart:)
+On le cherche toujours, alors si tu veux participer à ce projet n'hésite pas à nous contacter ! 
+
+Nos contacts slack : 
+
+Agnès : @Agnès Arthaud
+Jhonnatan: @Jo
+Lucile: @lucile gentaz
+Milena : @Milena Lazzaretti
+Raphaël: @Raphael
+
 
 <div class="text-center">
     
