@@ -74,7 +74,7 @@ Envoie d'emails aux utilisateurs: :bell: notifications, :heart: matchs, :email: 
 - [x] Pexels - Choper des images libres de droits (#catfish)
 
 ### 3.4. La team crocket *plus rapide que la lumière*
-Nous sommes déjà une équipe de 4 personnes et cherchons potentiellement une 5e personne pour nous aider à faire de ce projet: **la prochaine licorne :rainbow:**
+Nous sommes déjà 5 prêts à faire de ce projet **la prochaine licorne :rainbow:**
 * Raphaël Delannay *a tenu les 7 premières semaines de THP*
 * Lucile Gentaz *quand tu commences elle a déjà fini :trollface: ...les chips* 
 * Agnès Arthaud *fait des tisanes #Josiane*
