@@ -106,11 +106,11 @@ On le cherche toujours, alors si tu veux participer à ce projet n'hésite pas �
 
 Nos contacts slack : 
 
-Agnès : @Agnès Arthaud
-Jhonnatan: @Jo
-Lucile: @lucile gentaz
-Milena : @Milena Lazzaretti
-Raphaël: @Raphael
+Agnès : @Agnès Arthaud <br />
+Jhonnatan: @Jo <br />
+Lucile: @lucile gentaz <br />
+Milena : @Milena Lazzaretti <br />
+Raphaël: @Raphael <br />
 
 
 <div class="text-center">
